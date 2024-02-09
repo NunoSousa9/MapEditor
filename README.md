@@ -14,3 +14,8 @@
 **L**: Load previously saved cells.
 
 **C**: Clear all cells from the grid.
+<br>
+<br>
+## Screenshot:
+
+![Alt Text](Screenshot.png)

@@ -5,7 +5,7 @@
 
 ## Keyboard:
 
-**Arrow keys**: Move Up, Down, Left or Right.
+**Arrow keys**: Move Up, Down, Left or Right. 
 
 **Space**: Fill the cell under the cursor with black/ Clear an already painted cell.
 
